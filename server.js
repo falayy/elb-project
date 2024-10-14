@@ -41,7 +41,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util.js';
       return res.status(400).send("Query parameter 'image' is empty or missing");
   } 
   const filteredImage = await filterImageFromURL(imageUrl);
-  res.status(200).send(filteredImage);
+  res.status(200).sendFile(filteredImage);
   
 });
   
