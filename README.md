@@ -24,8 +24,8 @@ Application Dashboard
 
 <img width="1680" alt="Screenshot 2024-10-13 at 12 34 27 PM" src="https://github.com/user-attachments/assets/4c7e7f3d-687e-43c7-a66d-84184e42ea3f">
 
-Elastic Beanstalk url : http://imagefilterapp-dev.us-east-1.elasticbeanstalk.com/
-Url to filter Image : http://imagefilterapp-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+Elastic Beanstalk url : http://imagefilterwebserver-dev.us-east-1.elasticbeanstalk.com/
+Url to filter Image : http://imagefilterwebserver-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
 
 
 
